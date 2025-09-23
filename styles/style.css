@@ -260,7 +260,7 @@ body {
 
 .faculty-card img {
   width: 150px;
-  height: 150px;
+  height: auto;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid #FFCC01;
