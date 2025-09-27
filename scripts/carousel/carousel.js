@@ -1,9 +1,3 @@
-/**
- * @author luis.monge
- */
-/*jslint continue: true, newcap: true, nomen: true, plusplus: true, regexp: true, sloppy: true, todo: true, unparam: true, forin: true */
-/*globals $,jQuery,document,window*/
-
 (function ($) {
     var methods,
         transforms = {
