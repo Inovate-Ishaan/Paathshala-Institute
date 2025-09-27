@@ -72,6 +72,7 @@
         },
 
         'next': function (node, data) {
+            alert('sucessss');
             if (data) {
                 data.selected = ((data.selected + 3) > (data.count)) ? data.selected : (data.selected + 3) % data.count;
                  
