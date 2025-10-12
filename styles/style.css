@@ -6,13 +6,19 @@ body {
 }
 
 #div_1 {
-  background: linear-gradient(to bottom right, #FFCC01, #FFCC02);
-  height: 100vh;
+  /*background: linear-gradient(to bottom right, #FFCC01, #FFCC02);
+  height: 100vh;*/
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 500px;
+  width: 100%;
+	  background-image: url('../resources/banner_test.png');
+      background-size: 100% 500px; /* Image covers the entire element */
+      background-repeat: no-repeat; /* Prevents repetition */
+      background-position: center; /* Centers the image */
 
 }
 
