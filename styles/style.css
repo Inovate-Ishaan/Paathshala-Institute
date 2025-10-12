@@ -14,10 +14,10 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  height: 550px;
   width: 100%;
   background-image: url('../resources/banner_test.png');
-  background-size: 100% 500px; /* Image covers the entire element */
+  background-size: 100% 550px; /* Image covers the entire element */
   background-repeat: no-repeat; /* Prevents repetition */
   background-position: center; /* Centers the image */
 
