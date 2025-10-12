@@ -5,6 +5,7 @@ body {
   overflow-x: hidden;
 }
 
+
 #div_1 {
   /*background: linear-gradient(to bottom right, #FFCC01, #FFCC02);
   height: 100vh;*/
@@ -15,12 +16,13 @@ body {
   align-items: center;
   height: 500px;
   width: 100%;
-	  background-image: url('../resources/banner_test.png');
-      background-size: 100% 500px; /* Image covers the entire element */
-      background-repeat: no-repeat; /* Prevents repetition */
-      background-position: center; /* Centers the image */
+  background-image: url('../resources/banner_test.png');
+  background-size: 100% 500px; /* Image covers the entire element */
+  background-repeat: no-repeat; /* Prevents repetition */
+  background-position: center; /* Centers the image */
 
 }
+
 
 #brand_icon {
   z-index: 1;
@@ -86,7 +88,7 @@ body {
   padding-bottom: 30px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
   font-size: 50px;
-  margin-top: 100px;
+  /*margin-top: 100px;*/
 }
 
 #our_achievers_text {
@@ -242,6 +244,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  
 }
 
 .faculty-container {
@@ -302,7 +305,7 @@ body {
 
 #div_5 {
   background: #FFCC01;
-  height: 100vh;
+  /*height: 100vh;*/
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -364,7 +367,7 @@ body {
 
 #div_7 {
   background: #FFCC01;
-  height: 100vh;
+  /*height: 100vh;*/
   display: flex;
   align-items: center;
   justify-content: center;
@@ -394,4 +397,3 @@ body {
     padding: 15px 25px;
   }
 }
-
