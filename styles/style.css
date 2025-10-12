@@ -374,7 +374,7 @@ body {
 }
 
 #footer {
-  height: 30vh;
+  /*height: 30vh;*/
   font-size: 20px;
   text-align: center;
   padding: 60px;
