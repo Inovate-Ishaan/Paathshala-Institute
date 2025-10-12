@@ -195,7 +195,7 @@ body {
 
 #div_3 {
   background: linear-gradient(to bottom right, #FFCC01, #FFCC02);
-  height: 100vh;
+  /*height: 100vh;*/
   display: flex;
   flex-direction: column;
   justify-content: center;
