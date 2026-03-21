@@ -16,7 +16,7 @@ body {
   align-items: center;
   height: 550px;
   width: 100%;
-  background-image: url('../resources/banner_test.png');
+  background-image: url('../resources/banner_test.jpg');
   background-size: 100% 550px; /* Image covers the entire element */
   background-repeat: no-repeat; /* Prevents repetition */
   background-position: center; /* Centers the image */
@@ -407,7 +407,7 @@ body {
   align-items: center;
   height: 800px;
   width: 100%;
-  background-image: url('../resources/banner_test.png');
+  background-image: url('../resources/banner_test.jpg');
   background-size: 100% 800px; /* Image covers the entire element */
   background-repeat: no-repeat; /* Prevents repetition */
   background-position: center; /* Centers the image */
