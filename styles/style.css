@@ -140,11 +140,28 @@ body {
   font-family: 'Playfair Display';
   text-align: center;
   padding: 15px;
-  margin-top: 150px;
   color: black;
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.25);
   font-size: 40px;
 }
+
+.achiversTitle {
+  font-family: 'Playfair Display';
+  text-align: center;
+  padding: 15px;
+  color: black;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.25);
+  font-size: 30px;
+}
+
+.achiverSection{
+	margin-top: 160px;
+}
+
+.quote2Section {
+		margin-top: 50px;
+}
+
 
 /* Style for Paathshala text in quote 2 */
 .P {
