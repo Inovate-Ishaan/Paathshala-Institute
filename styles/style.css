@@ -72,7 +72,7 @@ body {
 
 #div_2 {
   /*height: 100vh;*/
-  text-align: center;
+  text-align: left;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -147,7 +147,7 @@ body {
 
 .achiversTitle {
   font-family: 'Playfair Display';
-  text-align: center;
+  text-align: left;
   padding: 15px;
   color: black;
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.25);
@@ -156,6 +156,7 @@ body {
 
 .achiverSection{
 	margin-top: 160px;
+	text-align: left;
 }
 
 .quote2Section {
@@ -165,7 +166,7 @@ body {
 .resultLink a{
 	color: #000;;
 	text-decoration: none;
-	text-align: left;
+	padding-left:30px;
 }
 
 .clickSign {
