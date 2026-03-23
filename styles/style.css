@@ -162,6 +162,36 @@ body {
 		margin-top: 50px;
 }
 
+.resultLink a{
+	color: #000;;
+	text-decoration: none;
+	text-align: left;
+}
+
+.clickSign {
+  appearance: none;
+  width: 200px;
+  height: 20px;
+  cursor: pointer;
+  position: relative;
+  color:red;
+  margin-left: 15px;
+  
+}
+
+.clickSign::after {
+  content: "✔";
+  position: absolute;
+  left: 2px;
+  top: -2px;
+}
+
+.resultLink a:hover{
+	color: #000;
+	text-decoration: underline;
+}
+
+
 
 /* Style for Paathshala text in quote 2 */
 .P {
